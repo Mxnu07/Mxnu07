@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on:<br>Projects to improve my skills in Python.<br><br>🌱 Still learning:<br>Advanced Docker orchestration techniques.<br>Best practices in AWS for scalable and secure deployments.<br>
+🚀 I'm currently working on:<br>Projects to improve my skills in Python & JavaScript.<br>Machine Learning specialization.<br><br>🌱 Still learning:<br>Advanced Docker orchestration techniques.<br>Best practices in AWS for scalable and secure deployments.<br>Machine Learning<br>
 
 
 ## 🌐 Socials:
